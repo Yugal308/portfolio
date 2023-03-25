@@ -22,6 +22,9 @@ header{
     left: 0;
     bottom: 3rem;
     align-items: center;
+    font-size: 1.3rem;
+    transition: var(--transition);
+    justify-content: center;
 }
 .header__socials::after{
     content: "";
@@ -29,6 +32,14 @@ header{
     height: 2rem;
     background: var(--color-primary);
 }
+.header_active{
+    display: none;
+    background: var(--color-primary);
+    color: var(--color-white);
+    margin-left: 0.5rem;
+    /* transition: var(--transition); */
+}
+
 .me{
     background: linear-gradient(var(--color-primary),transparent);
     width: 22rem;
@@ -46,7 +57,7 @@ header{
     bottom: 5rem;
     transform: rotate(90deg);
     font-weight: 300;
-    font-size: 0.9rem;
+    font-size: 1.3rem;
 }
 @media screen and (max-width: 1024px) {
     header{

@@ -1,11 +1,11 @@
 import React from 'react'
 import "./Project.css"
-import img1 from "../../Assets/portfolio1.jpg"
-import img2 from "../../Assets/portfolio2.jpg"
-import img3 from "../../Assets/portfolio3.jpg"
-import img4 from "../../Assets/portfolio4.jpg"
-import img5 from "../../Assets/portfolio5.png"
-import img6 from "../../Assets/portfolio6.jpg"
+import img1 from "../../Assets/netflix.jpeg"
+import img2 from "../../Assets/snorlax.jpeg"
+import img3 from "../../Assets/expense.jpeg"
+import img4 from "../../Assets/lost.jpeg"
+import img5 from "../../Assets/hulu.png"
+import img6 from "../../Assets/stock.jpeg"
 const Projects = () => {
   return (
   <section id="projects">
@@ -16,59 +16,59 @@ const Projects = () => {
             <div className="project_img">
               <img src={img1} alt="image_1" />
             </div>
-            <h3>This is project title</h3>
+            <h3>Netflix Clone</h3>
             <div className="project_link">
-            <a href="http://github.com/Yugal308" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/Yugal308/netflix-clone" className='btn' target='_blank'>Github</a>
+            <a href="https://yugal-netflix-clone.netlify.app" className='btn btn-primary' target='_blank'>Live Link</a>
+            </div>
+          </article>
+          <article className="project_item">
+            <div className="project_img">
+              <img src={img2} alt="image_2" />
+            </div>
+            <h3>Snorlax - A Virtual Assistant</h3>
+            <div className="project_link">
+            <a href="https://github.com/Yugal308/Snorlax-A-Virtual-Assstant" className='btn' target='_blank'>Github</a>
             <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
             </div>
           </article>
           <article className="project_item">
             <div className="project_img">
-              <img src={img1} alt="image_1" />
+              <img src={img3} alt="image_3" />
             </div>
-            <h3>This is project title</h3>
+            <h3>Expense Tracker</h3>
             <div className="project_link">
-            <a href="http://github.com/Yugal308" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/Yugal308/expense_tracker" className='btn' target='_blank'>Github</a>
             <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
             </div>
           </article>
           <article className="project_item">
             <div className="project_img">
-              <img src={img1} alt="image_1" />
+              <img src={img4} alt="image_4" />
             </div>
-            <h3>This is project title</h3>
+            <h3>Lost Connection - The Missing Link</h3>
             <div className="project_link">
-            <a href="http://github.com/Yugal308" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/Yugal308/Lost-Connection-The-missing-link" className='btn' target='_blank'>Github</a>
+            <a href="https://lost-connection.netlify.app/" className='btn btn-primary' target='_blank'>Live Link</a>
+            </div>
+          </article>
+          <article className="project_item">
+            <div className="project_img">
+              <img src={img5} alt="image_5" />
+            </div>
+            <h3>HULU Clone</h3>
+            <div className="project_link">
+            <a href="https://github.com/Yugal308/Hulu-Clone" className='btn' target='_blank'>Github</a>
             <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
             </div>
           </article>
           <article className="project_item">
             <div className="project_img">
-              <img src={img1} alt="image_1" />
+              <img src={img6} alt="image_6" />
             </div>
-            <h3>This is project title</h3>
+            <h3>Stock Price Predictor</h3>
             <div className="project_link">
-            <a href="http://github.com/Yugal308" className='btn' target='_blank'>Github</a>
-            <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
-            </div>
-          </article>
-          <article className="project_item">
-            <div className="project_img">
-              <img src={img1} alt="image_1" />
-            </div>
-            <h3>This is project title</h3>
-            <div className="project_link">
-            <a href="http://github.com/Yugal308" className='btn' target='_blank'>Github</a>
-            <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
-            </div>
-          </article>
-          <article className="project_item">
-            <div className="project_img">
-              <img src={img1} alt="image_1" />
-            </div>
-            <h3>This is project title</h3>
-            <div className="project_link">
-            <a href="http://github.com/Yugal308" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/Yugal308/Stock_Price_Predictor" className='btn' target='_blank'>Github</a>
             <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
             </div>
           </article>
