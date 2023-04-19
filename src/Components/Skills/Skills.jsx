@@ -120,7 +120,7 @@ const Skills = () => {
             <aricle className="skill_details">
               <BsFillPatchCheckFill className='skill_icon' />
               <div>
-              <h4>Reinforcement Learning</h4>
+              <h4>Data Analytics</h4>
               <small className='text-light'>Intermediate</small>
               </div>
             </aricle>

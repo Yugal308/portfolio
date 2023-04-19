@@ -32,7 +32,7 @@ const Projects = () => {
             <h3>Snorlax - A Virtual Assistant</h3>
             <div className="project_link">
             <a href="https://github.com/Yugal308/Snorlax-A-Virtual-Assstant" className='btn' target='_blank'>Github</a>
-            <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
+            <a href="https://github.com/Yugal308/Snorlax-A-Virtual-Assstant" className='btn btn-primary' target='_blank'>Live Link</a>
             </div>
           </article>
           <article className="project_item">
@@ -42,7 +42,7 @@ const Projects = () => {
             <h3>Expense Tracker</h3>
             <div className="project_link">
             <a href="https://github.com/Yugal308/expense_tracker" className='btn' target='_blank'>Github</a>
-            <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
+            <a href="https://github.com/Yugal308/expense_tracker" className='btn btn-primary' target='_blank'>Live Link</a>
             </div>
           </article>
           <article className="project_item">
@@ -62,7 +62,7 @@ const Projects = () => {
             <h3>HULU Clone</h3>
             <div className="project_link">
             <a href="https://github.com/Yugal308/Hulu-Clone" className='btn' target='_blank'>Github</a>
-            <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
+            <a href="https://hulu-clone23.netlify.app/" className='btn btn-primary' target='_blank'>Live Link</a>
             </div>
           </article>
           <article className="project_item">
@@ -72,7 +72,7 @@ const Projects = () => {
             <h3>Stock Price Predictor</h3>
             <div className="project_link">
             <a href="https://github.com/Yugal308/Stock_Price_Predictor" className='btn' target='_blank'>Github</a>
-            <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
+            <a href="https://github.com/Yugal308/Stock_Price_Predictor" className='btn btn-primary' target='_blank'>Live Link</a>
             </div>
           </article>
           <article className="project_item">
@@ -82,7 +82,7 @@ const Projects = () => {
             <h3>React Ecommerce Site</h3>
             <div className="project_link">
             <a href="https://github.com/Yugal308/ecommerce" className='btn' target='_blank'>Github</a>
-            <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
+            <a href="https://github.com/Yugal308/ecommerce" className='btn btn-primary' target='_blank'>Live Link</a>
             </div>
           </article>
           <article className="project_item">
@@ -102,7 +102,7 @@ const Projects = () => {
             <h3>Hotel Booking Data Analysis</h3>
             <div className="project_link">
             <a href="https://github.com/Yugal308/Hotel-Booking-Data-Analysis" className='btn' target='_blank'>Github</a>
-            <a href="http://github.com/Yugal308" className='btn btn-primary' target='_blank'>Live Link</a>
+            <a href="https://github.com/Yugal308/Hotel-Booking-Data-Analysis" className='btn btn-primary' target='_blank'>Live Link</a>
             </div>
           </article>
         </div>
